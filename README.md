@@ -5,4 +5,4 @@ The shift, space, and cursor keys are the default control keys; these can be cha
 
 This version is for desktop only at the moment, keyboard controls are configured but no mobile controls are coded yet.
 
-to play, visit https://htmlpreview.github.com/?https://github.com/waltmaisel/SaltBae-WebGame/blob/master/saltbaethegame.html
+to play, visit [this link](https://htmlpreview.github.com/?https://github.com/waltmaisel/SaltBae-WebGame/blob/master/saltbaethegame.html).
